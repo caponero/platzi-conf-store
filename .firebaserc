@@ -1,5 +1,7 @@
 {
-    "projects":{
-        "default" : "platzi-conf-store"
-    }
+  "projects": {
+    "platzi-conf-store": "platzi-conf-store-fe187",
+    "default": "platzi-conf-store-fe187"
+  },
+  "targets": {}
 }
